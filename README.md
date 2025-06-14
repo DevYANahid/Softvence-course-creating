@@ -17,8 +17,5 @@
 4. Run `php artisan migrate`
 5. Run `php artisan serve`
 
-## 🖼️ Screenshots
-_Add your screenshots here (optional)_
-
 ## 👨‍💻 Developed By:
 Yeasin Arafat Nahid
